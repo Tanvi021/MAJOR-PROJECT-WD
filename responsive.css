@@ -1,0 +1,197 @@
+/*------------------------------------------------*/
+/* Header */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1320px) {
+    .nav-ul {
+        float: none;
+        margin-top: 0;
+        padding-top: 120px;
+    }
+    .nav h5 {
+        float: none;
+        display: block;
+    }
+    .nav-ul li{
+        padding-bottom: 20px;
+    }
+}
+@media only screen and (max-width: 757px) {
+    .text-box {
+        top: 60%;
+    }
+}
+
+/*------------------------------------------------*/
+/* Features */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1050px) {
+    .features .span-1-of-4 {
+        width: 48%;
+    }
+
+    .features div {
+        padding-left: 20px;
+    }
+}
+
+@media only screen and (max-width: 550px) {
+    .features .span-1-of-4 {
+        width: 90%;
+    }
+    .features div {
+        padding-left: 40px;
+    }
+}
+
+/*------------------------------------------------*/
+/* Meals */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1250px) {
+    .meals li {
+        width: 50%;
+    }
+    .meals ul {
+        width: 70%;
+        margin: 0 auto;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .meals li {
+        width: 100%;
+    }
+    .meals ul {
+        width: 65%;
+        margin: 0 auto;
+    }
+}
+
+/*------------------------------------------------*/
+/* How to Section */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1025px) {
+    .iPhone{
+        width: 200px;
+    }
+
+    .store{
+        height: 50px;
+    }
+}
+
+@media only screen and (max-width: 960px) {
+    .iPhone{
+        width: 200px;
+    }
+
+    .store{
+        height: 40px;
+        float: left;
+    }
+    .works-text div {
+        margin-right: 1000px;
+    }
+}
+
+@media only screen and (max-width: 640px) {
+    .store{
+        height: 28px;
+        float: left;
+    }
+}
+
+/*------------------------------------------------*/
+/* Cities */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1025px) {
+    .cities .span-1-of-4 {
+        width: 31%;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .cities .span-1-of-4 {
+        width: 48%;
+    }
+}
+
+/*------------------------------------------------*/
+/* Testimonials */
+/*------------------------------------------------*/
+
+
+@media only screen and (max-width: 730px) {
+    .testimonials .span-1-of-3 {
+        width: 98%;
+        padding-bottom: 50px;
+    }
+}
+
+/*------------------------------------------------*/
+/* Sign Up */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1202px) {
+    .sign-up .span-1-of-3 {
+        width: 48%;
+        padding-bottom: 50px;
+    }
+}
+
+@media only screen and (max-width: 730px) {
+    .sign-up .span-1-of-3 {
+        width: 98%;
+        padding-bottom: 50px;
+    }
+}
+
+/*------------------------------------------------*/
+/* Form */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 1100px) {
+    .formo .span-1-of-3,.formo .span-2-of-3 {
+        width: 98%;
+    }
+
+    .formo .span-2-of-3 {
+        padding-bottom: 25px;
+    }
+}
+
+/*------------------------------------------------*/
+/* Footer */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 750px) {
+    .footer-social, .footer-links{
+        float:none;
+        text-align: center;
+    }
+    .footer-links li{
+        margin-right: 0;
+        
+    }
+    .footer-social{
+        padding-top: 20px;
+    }
+}
+
+/*------------------------------------------------*/
+/* Go up button */
+/*------------------------------------------------*/
+
+@media only screen and (max-width: 860px) {
+    .go-up {
+        font-size: 140%;
+        height: 40px;
+        width: 40px;
+        bottom: 10px;
+        right: 10px;
+    }
+}
